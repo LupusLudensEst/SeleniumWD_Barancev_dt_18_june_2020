@@ -16,7 +16,7 @@ colorama==0.4.4
 configparser==5.0.2
 crayons==0.4.0
 distlib==0.3.1
-Django==3.1.7
+Django==3.1.12
 djangorestframework==3.12.4
 driver==0.1.0
 filelock==3.0.12
